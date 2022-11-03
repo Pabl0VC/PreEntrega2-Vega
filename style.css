@@ -1,0 +1,52 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: #f8fffc;
+}
+
+.text-navegador{
+    font-family: 'Cairo', sans-serif;
+    font-size:20px;;
+}
+
+
+/* Home */
+.titulos-secciones{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+}
+
+
+/* Acerca */
+.contenedores{
+    background-color:#345B48 ;
+}
+.contenedor-interior{
+    background-color: #DADFE5;
+    border-radius: 1%;
+}
+.textos{
+    font-family: 'Cairo', sans-serif;
+}
+.container{
+    border-radius: 1%;
+}
+
+
+/* Proyectos */
+.animaciones:hover{
+    transform:scale(1.1);
+    transition:all 1s ;
+}
+
+
+/* Contacto */
+.animaciones-contacto:hover{
+    transform:scale(1.5);
+    transition:all 1s ;
+}
